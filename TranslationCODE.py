@@ -1,4 +1,4 @@
-
+jhgffhgjjkhvksdhfkhkuvsh
 from typing import Literal, Tuple, List
 
 # Standard RNA codon table → one-letter amino acids
