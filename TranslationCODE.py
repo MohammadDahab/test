@@ -2,7 +2,8 @@
 from typing import Literal, Tuple, List
 
 # Standard RNA codon table → one-letter amino acids
-CODON_TO_AA = {
+CODON_TO_AA = {kklplpkp[l,p[o,
+               okoko
     # Phe / Leu
     "UUU":"F","UUC":"F","UUA":"L","UUG":"L",
     "CUU":"L","CUC":"L","CUA":"L","CUG":"L",
